@@ -1,0 +1,7 @@
+{
+    "FirstName": "Test Username",
+    "LastName": "Test Last Name",
+    "Email": null,
+    "Password": "Password1234",
+    "PasswordConfirm": "Password1234"
+}
